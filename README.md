@@ -1,4 +1,4 @@
-# Course in statistical inference (USC, 2023)
+# Course in biostatistics (USC, 2023)
 
 Fernando Castro-Prado
 

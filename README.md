@@ -2,6 +2,6 @@
 
 Fernando Castro-Prado
 
-Last update: 2.3.2023 after class. Today's script and poll results have been added. Stay tuned for more stuff before the next class!
+Last update: 16.3.2023 before class. Some interesting stuff will be added, here and/or on the companion website ( https://sites.google.com/view/fernando-castro-prado/teaching/biost-107 ) within the next 48 hours.
 
 If you (think that you may) have found a mistake, please email me about it. :)

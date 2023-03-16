@@ -1,10 +1,10 @@
 Estatura	Peso	Irmans	Deporte	Zapato	Pronome
 179	80	2	Bádminton	42	El
 165	48	2	Outros	38	Ela
-157	42	1	Outros	3536	Ela
+157	42	1	Outros	36	Ela
 170	70	2	Outros	38	Ela
 172	68	2	Outros	41	El
-183	62.5	2	Natación	44	El
+183	63	2	Natación	44	El
 160	50	1	Outros	36	Ela
 155	50	2	Baloncesto	37	Ela
 168	60	2	Outros	38	Ela
@@ -16,11 +16,11 @@ Estatura	Peso	Irmans	Deporte	Zapato	Pronome
 155	45	1	Natación	37	Ela
 170	55	2	Natación	38	Ela
 163	55	2	Atletismo	39	Ela
-1,59	55	1	Patinaxe	37	Ela
+159	55	1	Patinaxe	37	Ela
 169	54	2	Outros	39	Ela
 156	40	2	Patinaxe	36	Ela
-185	104	2	Adestramentos de forza	45	El
-178	73,5	2	Adestramentos de forza	42	El
+185	104	2	Adestramentos_de_forza	45	El
+178	74	2	Adestramentos_de_forza	42	El
 172	62	1	Baloncesto	41	Ela
 175	80	1	Fútbol	43	El
 167	54	2	Patinaxe	37	Ela
